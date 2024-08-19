@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"9a7e6d3f-3b95-47ba-a0df-c97fc011df14",
+	"author":	"Samas322",
+	"description":	{
+		"":	"Export Mutiple Sketch to DXF files"
+	},
+	"version":	"1.0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
